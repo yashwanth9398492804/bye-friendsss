@@ -36,7 +36,7 @@
 ![Github](https://www.fda.gov/files/Coronavirus_3D_illustration_by_CDC_1600x900.png)
 
 **To insert Link**  
-[Github Link](https://github.com/yashwanth9398492804/bye-friendsss/edit/main/README.md)
+[Github Link](https://www.fda.gov/files/Coronavirus_3D_illustration_by_CDC_1600x900.png)
 
 **To insert a table**  
 
